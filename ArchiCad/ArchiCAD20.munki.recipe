@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads ArchiCad20 dmg and imports into Munki.</string>
     <key>Identifier</key>
-    <string>de.macworx.munki.ArchiCAD20</string>
+    <string>de.macworx.gitlab.munki.ArchiCAD20</string>
     <key>Input</key>
     <dict>
         <key>MUNKI_REPO_SUBDIR</key>
