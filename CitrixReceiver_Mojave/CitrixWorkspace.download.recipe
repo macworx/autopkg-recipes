@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest Citrix Workspace disk image for macOS 10.14 Mojave. Based on the work of hjuutilainen</string>
 	<key>Identifier</key>
-	<string>io.github.mamcworx.download.CitrixWorkspace</string>
+	<string>io.github.macworx.download.CitrixWorkspace</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
